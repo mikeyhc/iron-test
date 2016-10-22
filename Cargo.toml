@@ -1,0 +1,8 @@
+[package]
+name = "iron_test"
+version = "0.1.0"
+authors = ["mikeyhc <mikeyhc@atmosia.net>"]
+
+[dependencies]
+iron = "0.4.0"
+time = "0.1.0"
